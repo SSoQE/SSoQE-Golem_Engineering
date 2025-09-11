@@ -2,3 +2,13 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# solutions
+/R/2_solution_lm.R
+/R/2_solution_permutation.R
+/R/3_solution_aic.R
+/R/4_solution_rarefaction.R
+/R/5_solution_bootstrapping.R
+/R/6_solution_coverage.R
+/R/7_solution_binning.R
+/R/8_solution_glmm.R
